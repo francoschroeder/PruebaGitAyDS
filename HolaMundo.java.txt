@@ -2,6 +2,6 @@ package default;
 
 public class HolaMundo {
 	public static void main(String[] args) {
-		System.out.println("Hola Branch!");
+		System.out.println("Chau Mundo!");
 	}
 }
